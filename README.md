@@ -1,16 +1,4 @@
-# ataxia_project
+# Ataxia_project
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+CoOrdiPlay is a Flutter-based healthcare application designed to help individuals with ataxia improve motor coordination, balance, and fine motor skills through interactive, gamified therapy.
+The app uses motion sensors, real-time tracking, and haptic (vibration) feedback to make rehabilitation engaging, accessible, and effective outside traditional clinical settings.
